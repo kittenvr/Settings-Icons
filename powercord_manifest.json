@@ -4,5 +4,5 @@
     "author": "CorellanStoma#1996",
     "description": "Settings-Icons adds icons to the Discord Settings menu's.",
     "license": "MIT",
-    "theme": "clients/powercord.css"
+    "theme": "dev.scss"
 }
